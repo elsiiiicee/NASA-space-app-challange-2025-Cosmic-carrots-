@@ -12,4 +12,4 @@ Clime Shuffle is a strategic, card-based farming game where players grow crops u
 [Live Page](https://everythingisunavailable.github.io/NASA-space-app-challange-2025-Cosmic-carrots/)
 
 ## Considerations
-This project was done in 1 and a half das and the repository is messy because of github pages asset connection failures. Thanks :) !
+This project was done in 1 and a half days and the repository is messy because of github pages asset connection failures. Thanks :) !
